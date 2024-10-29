@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/mars', function(req, res) {
-  res.send('Estoy Cansado jefe!\n');
+  res.send('Estoy Cansado jefe, cansado de verdad!\n');
 });
 
 
