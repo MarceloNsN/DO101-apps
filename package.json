@@ -1,0 +1,11 @@
+{
+  "name": "DO101-apps",
+  "version": "1.0.0",
+  "main": "express-helloworld/app.js",
+  "scripts": {
+    "start": "node express-helloworld/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
